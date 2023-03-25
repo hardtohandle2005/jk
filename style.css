@@ -777,7 +777,7 @@ font-size: 100px;
     width: 40%;
     position:absolute;
     left: 4%;
-    top: 95%;
+    top: 80%;
 }
     .slr{
    text-align: center;
@@ -987,7 +987,7 @@ font-size: 90px;
 }
 .ban-text{
     position: absolute;
-    top:520%;
+    top:545%;
     left: 50%;
     transform: translate(-50%,-50%);
     z-index: 5;

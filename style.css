@@ -905,7 +905,7 @@ font-size: 100px;
 }
 .banner-text{
     position: absolute;
-    top:315%;
+    top:320%;
     left: 50%;
     transform: translate(-50%,-50%);
     z-index: 5;
